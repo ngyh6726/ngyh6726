@@ -16,12 +16,11 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/ngyh6726/ngyh6726profile/assets/61657888/785310d1-7d22-40fb-93ed-3044f076df1a.gif" width="600" height="300">
+  <img src="https://github.com/ngyh6726/ngyh6726/assets/61657888/7ef0d09f-7240-4e3f-ac0b-c66f2eb12ac8.gif" width="600" height="300">
 </div>
 
-
 <h1 align="center">Hi, I'm Yuen Herng 👋</h1> 
-<img src="https://github.com/ngyh6726/ngyh6726profile/assets/61657888/6e857b41-ccfb-45f5-960a-08a64adb3857.gif" width="100" height="100">
+<img src="https://github.com/ngyh6726/ngyh6726/assets/61657888/14bc954f-ec74-4c78-ad54-28f5fadb89c4.gif" width="100" height="100">
 
 [My Portfolio Website](https://ngs-personal-portfolio.vercel.app/)
 <br/>
