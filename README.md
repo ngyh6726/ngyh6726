@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github.com/ngyh6726/ngyh6726/assets/61657888/7ef0d09f-7240-4e3f-ac0b-c66f2eb12ac8.gif" width="600" height="300">
+  <img src="https://github.com/ngyh6726/ngyh6726/assets/61657888/7ef0d09f-7240-4e3f-ac0b-c66f2eb12ac8.gif" width="700" height="300">
 </div>
 
 <h1 align="center">Hi, I'm Yuen Herng 👋</h1> 
